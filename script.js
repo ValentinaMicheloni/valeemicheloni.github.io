@@ -18,8 +18,8 @@ document.addEventListener('DOMContentLoaded', () => {
         img: 'imagenes/cruz de san andres.jpg'
       },
       {
-        name: 'curva peligrosa',
-        img: 'imagenes/curva peligrosa.webp'
+        name: 'curva',
+        img: 'imagenes/curva.jpg'
       },
       {
         name: 'gomeria',
@@ -42,8 +42,8 @@ document.addEventListener('DOMContentLoaded', () => {
         img: 'imagenes/cruz de san andres.jpg'
       },
       {
-        name: 'curva peligrosa',
-        img: 'imagenes/curva peligrosa.webp'
+        name: 'curva',
+        img: 'imagenes/curva.jpg'
       },
       {
         name: 'gomeria',
