@@ -26,6 +26,14 @@ document.addEventListener('DOMContentLoaded', () => {
         img: 'imagenes/gomeria.png'
       },
       {
+        name: 'semaforo',
+        img: ''
+      },
+      {
+        name: 'socorro',
+        img: ''
+      },
+      {
         name: 'cruce caminos',
         img: 'imagenes/cruce de caminos.jpg'
       },
@@ -49,6 +57,14 @@ document.addEventListener('DOMContentLoaded', () => {
         name: 'gomeria',
         img: 'imagenes/gomeria.png'
       }
+      {
+        name: 'semaforo',
+        img: ''
+      },
+      {
+        name: 'socorro',
+        img: ''
+      },
     ]
   
     cardArray.sort(() => 0.5 - Math.random())
