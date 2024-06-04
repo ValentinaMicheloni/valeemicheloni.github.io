@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
       },
       {
         name: 'semaforo',
-        img: ''
+        img: 'imagenes/semaforo.png'
       },
       {
         name: 'socorro',
@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
       {
         name: 'semaforo',
-        img: ''
+        img: 'imagenes/semaforo.png'
       },
       {
         name: 'socorro',
