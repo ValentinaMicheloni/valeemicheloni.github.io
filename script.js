@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
       {
         name: 'gomeria',
         img: 'imagenes/gomeria.png'
-      }
+      },
       {
         name: 'semaforo',
         img: 'imagenes/semaforo.png'
