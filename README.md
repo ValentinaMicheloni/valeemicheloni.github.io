@@ -8,6 +8,11 @@
   <script src="script.js"></script>
 </head>
 <body>
+  <header>
+    <div class="header">
+      <h1>Juego de memoria sobre Educación Vial</h1>
+    </div>
+  </header>
   <h3>Puntos:<span id="result"></span></h3>
   <div class="grid">
   </div>
