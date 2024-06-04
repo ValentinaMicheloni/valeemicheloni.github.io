@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
       },
       {
         name: 'socorro',
-        img: ''
+        img: 'imagenes/puesto socorro.jpg'
       },
       {
         name: 'cruce caminos',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
       },
       {
         name: 'socorro',
-        img: ''
+        img: 'imagenes/puesto socorro.jpg'
       },
     ]
   
