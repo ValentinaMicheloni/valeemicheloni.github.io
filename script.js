@@ -26,10 +26,6 @@ document.addEventListener('DOMContentLoaded', () => {
         img: 'imagenes/gomeria.png'
       },
       {
-        name: 'semaforo',
-        img: 'imagenes/semaforo.png'
-      },
-      {
         name: 'socorro',
         img: 'imagenes/puesto socorro.jpg'
       },
@@ -56,10 +52,6 @@ document.addEventListener('DOMContentLoaded', () => {
       {
         name: 'gomeria',
         img: 'imagenes/gomeria.png'
-      },
-      {
-        name: 'semaforo',
-        img: 'imagenes/semaforo.png'
       },
       {
         name: 'socorro',
